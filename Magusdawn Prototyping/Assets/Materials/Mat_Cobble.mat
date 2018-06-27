@@ -6,10 +6,10 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Mat_LampPost
+  m_Name: Mat_Cobble
   m_Shader: {fileID: 4800000, guid: 8b2f353da1dd05244a7bee1562a2306a, type: 3}
-  m_ShaderKeywords: _EMISSION _NORMALMAP
-  m_LightmapFlags: 6
+  m_ShaderKeywords: _NORMALMAP _PARALLAXMAP _STATICHIGHLIGHTS_ON
+  m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
@@ -19,11 +19,11 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BaseColorRGBOutlineWidthA:
-        m_Texture: {fileID: 2800000, guid: c88f9e098c0fc4445a6d36ded05f3b53, type: 3}
+        m_Texture: {fileID: 2800000, guid: 109c06235fb5dcc48abb1628b83f6c1b, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: 7b1c1910307d1b04fa0430971366148b, type: 3}
+        m_Texture: {fileID: 2800000, guid: e442c5e9a1482384ca64bf2fde8f6003, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
@@ -39,35 +39,35 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Diffuse:
-        m_Texture: {fileID: 2800000, guid: c88f9e098c0fc4445a6d36ded05f3b53, type: 3}
-        m_Scale: {x: 1, y: 1}
+        m_Texture: {fileID: 2800000, guid: 109c06235fb5dcc48abb1628b83f6c1b, type: 3}
+        m_Scale: {x: 8, y: 8}
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
-        m_Texture: {fileID: 2800000, guid: 54be7aa9cc5c0aa42907dd54d76710bf, type: 3}
-        m_Scale: {x: 1, y: 1}
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 8, y: 8}
         m_Offset: {x: 0, y: 0}
     - _Highlight:
-        m_Texture: {fileID: 2800000, guid: d11cfe9e9c8859a449d54f772b266867, type: 3}
+        m_Texture: {fileID: 2800000, guid: 367714065a3782c47af1c24ef87414eb, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: c88f9e098c0fc4445a6d36ded05f3b53, type: 3}
-        m_Scale: {x: 1, y: 1}
+        m_Texture: {fileID: 2800000, guid: 109c06235fb5dcc48abb1628b83f6c1b, type: 3}
+        m_Scale: {x: 8, y: 8}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _NormalMap:
-        m_Texture: {fileID: 2800000, guid: 7b1c1910307d1b04fa0430971366148b, type: 3}
+        m_Texture: {fileID: 2800000, guid: e442c5e9a1482384ca64bf2fde8f6003, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
-        m_Texture: {fileID: 2800000, guid: d11cfe9e9c8859a449d54f772b266867, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ParallaxMap:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 367714065a3782c47af1c24ef87414eb, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ToonRamp:
@@ -87,7 +87,7 @@ Material:
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _GlossMapScale: 1
-    - _Glossiness: 0
+    - _Glossiness: 0.5
     - _GlossyReflections: 1
     - _HighlightCellOffset: -0.96
     - _HighlightCellSharpness: 0.001
@@ -117,7 +117,7 @@ Material:
     - _ASEOutlineColor: {r: 0, g: 0, b: 0, a: 0}
     - _BaseTint: {r: 1, g: 1, b: 1, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
-    - _HighlightTint: {r: 0.5471698, g: 0.44109267, b: 0.13163047, a: 1}
-    - _OutlineTint: {r: 0.5, g: 0.19565217, b: 0, a: 1}
-    - _RimColor: {r: 0.3962264, g: 0.10336564, b: 0, a: 0}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _HighlightTint: {r: 0.46226418, g: 0.3005346, b: 0.128649, a: 1}
+    - _OutlineTint: {r: 0.5, g: 0.1956522, b: 0, a: 1}
+    - _RimColor: {r: 0.3962264, g: 0.1033656, b: 0, a: 0}
