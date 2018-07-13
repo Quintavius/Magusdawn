@@ -36,6 +36,8 @@ ModelImporter:
     400028: Roof3.002
     400030: Roof3.003
     2100000: Mat_Hornboo
+    2300000: Hornboo
+    3300000: Hornboo
     4300000: Hornboo
     9500000: //RootNode
     13700000: Hornboo
@@ -113,10 +115,10 @@ ModelImporter:
     rootMotionBoneName: 
     rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
-    hasExtraRoot: 0
+    hasExtraRoot: 1
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 0
   humanoidOversampling: 1
   additionalBone: 0
   userData: 

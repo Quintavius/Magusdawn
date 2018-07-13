@@ -6,7 +6,7 @@ Material:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: HornbooMat
+  m_Name: FakeShrub
   m_Shader: {fileID: 4800000, guid: f02057bc46e41e74ab575a921d1e5ab8, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 5
@@ -19,7 +19,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _Diffuse:
-        m_Texture: {fileID: 2800000, guid: 8e24bd92bfdbf2b4483c004dd1f40c4f, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Emission:
@@ -27,15 +27,15 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _NormalMap:
-        m_Texture: {fileID: 2800000, guid: 509f51ea064d3314d939cdd1426eeb8a, type: 3}
+        m_Texture: {fileID: 2800000, guid: 4ef0ac462b6ac79428c11e77b7a01c14, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Opacity:
-        m_Texture: {fileID: 2800000, guid: 74c75b6a7db6015428559aa15886eacf, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ShadowMap:
-        m_Texture: {fileID: 2800000, guid: 8e24bd92bfdbf2b4483c004dd1f40c4f, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _TextureSample0:
@@ -50,41 +50,30 @@ Material:
         m_Texture: {fileID: 2800000, guid: 52e66a9243cdfed44b5e906f5910d35b, type: 3}
         m_Scale: {x: 1, y: 0}
         m_Offset: {x: 0, y: 0}
-    - _TransmissionMap:
-        m_Texture: {fileID: 2800000, guid: db06941541c34f443be3aadb66ae4514, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
     - _texcoord:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _ASEOutlineWidth: 1
-    - _AlbedoLevel: 1.38
+    - _AlbedoLevel: 1.12
     - _Cutoff: 0.5
     - _Float1: 0.64
     - _Float3: 0.3
-    - _HighlightOffset: -59.6
-    - _HighlightSharpness: 95.1
-    - _NormalScale: 0.99
-    - _RimOffset: 0.95
+    - _HighlightOffset: -85
+    - _HighlightSharpness: 97.67
+    - _NormalScale: 0.3
+    - _RimOffset: 0.68
     - _RimPower: 0
-    - _ShadowOffset: -53.1
-    - _ShadowSharpness: 100
-    - _TessMax: 25
-    - _TessMin: 10
-    - _TessPhongStrength: 0.5
-    - _TessValue: 4
-    - _TransmissionOffset: -0.73
-    - _TransmissionScale: 1.09
+    - _ShadowOffset: -80.9
+    - _ShadowSharpness: 113.1
     - __dirty: 0
     m_Colors:
     - _ASEOutlineColor: {r: 0, g: 0, b: 0, a: 0}
     - _Color0: {r: 1, g: 1, b: 1, a: 0}
     - _Color1: {r: 0, g: 1, b: 0.8758622, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 0}
-    - _HighlightColor: {r: 0.15094334, g: 0.10864126, b: 0.033463866, a: 1}
-    - _MainColor: {r: 1, g: 1, b: 1, a: 0}
-    - _RimColor: {r: 0.6462126, g: 2.4886825, b: 0.64564884, a: 1}
-    - _ShadowColor: {r: 1, g: 1, b: 1, a: 0}
-    - _TransmissionColor: {r: 1, g: 1, b: 1, a: 0}
+    - _HighlightColor: {r: 0, g: 0, b: 0, a: 1}
+    - _MainColor: {r: 0.3597864, g: 0.685, b: 0.34935, a: 0}
+    - _RimColor: {r: 0.086240634, g: 0.9622642, b: 0.5681924, a: 1}
+    - _ShadowColor: {r: 0.21084018, g: 0.4339623, b: 0.31418094, a: 0}
