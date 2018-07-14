@@ -89,6 +89,8 @@ Material:
     - _GlossyReflections: 1
     - _HighlightOffset: -131.5
     - _HighlightSharpness: 144.8
+    - _LightmapOffset: -74.7
+    - _LightmapSharpness: 112.1
     - _Metallic: 0
     - _Mode: 0
     - _NormalScale: 1

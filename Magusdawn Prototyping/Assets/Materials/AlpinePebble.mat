@@ -60,12 +60,14 @@ Material:
     - _Cutoff: 0.5
     - _Float1: 0.64
     - _Float3: 0.3
-    - _HighlightOffset: -85
+    - _HighlightOffset: -77.4
     - _HighlightSharpness: 97.67
+    - _LightmapOffset: -64
+    - _LightmapSharpness: 92.5
     - _NormalScale: 3
     - _RimOffset: 0.88
     - _RimPower: 0
-    - _ShadowOffset: -57.4
+    - _ShadowOffset: -64.6
     - _ShadowSharpness: 113.1
     - __dirty: 0
     m_Colors:
