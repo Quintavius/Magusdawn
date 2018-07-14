@@ -108,6 +108,8 @@ Material:
     - _HighlightSharpness: 150
     - _IndirectDiffuseContribution: 0.679
     - _IndirectSpecularContribution: 1
+    - _LightmapOffset: 10.39
+    - _LightmapSharpness: 0
     - _Metallic: 0
     - _Mode: 0
     - _NormalScale: 1.5
