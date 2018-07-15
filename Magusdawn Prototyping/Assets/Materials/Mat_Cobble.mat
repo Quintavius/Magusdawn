@@ -92,7 +92,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _ASEOutlineWidth: 0.02
-    - _AlbedoLevel: 2.8
+    - _AlbedoLevel: 3
     - _BaseCellOffset: 0.207
     - _BaseCellSharpness: 0.396
     - _BumpScale: 1
@@ -104,12 +104,12 @@ Material:
     - _GlossyReflections: 1
     - _HighlightCellOffset: -0.96
     - _HighlightCellSharpness: 0.001
-    - _HighlightOffset: -0.04
-    - _HighlightSharpness: 1.69
+    - _HighlightOffset: -5.83
+    - _HighlightSharpness: 8.8
     - _IndirectDiffuseContribution: 0.679
     - _IndirectSpecularContribution: 1
-    - _LightmapOffset: 8.14
-    - _LightmapSharpness: 0
+    - _LightmapOffset: -54.08
+    - _LightmapSharpness: 80
     - _Metallic: 0
     - _Mode: 0
     - _NormalScale: 1
@@ -119,8 +119,8 @@ Material:
     - _RimOffset: 0.71
     - _RimPower: 10
     - _ShadowContribution: 0.277
-    - _ShadowOffset: -3.56
-    - _ShadowSharpness: 5.11
+    - _ShadowOffset: -0.5
+    - _ShadowSharpness: 1.41
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
@@ -142,4 +142,4 @@ Material:
     - _MainColor: {r: 1, g: 1, b: 1, a: 0}
     - _OutlineTint: {r: 0.5, g: 0.1956522, b: 0, a: 1}
     - _RimColor: {r: 0.3962264, g: 0.1033656, b: 0, a: 0}
-    - _ShadowColor: {r: 0.31132078, g: 0.20775113, b: 0.13950695, a: 0}
+    - _ShadowColor: {r: 0.91150254, g: 0.81247777, b: 0.9622642, a: 0}

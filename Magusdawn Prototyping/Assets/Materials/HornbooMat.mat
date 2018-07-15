@@ -60,14 +60,14 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _ASEOutlineWidth: 1
-    - _AlbedoLevel: 1.38
+    - _AlbedoLevel: 2.16
     - _Cutoff: 0.5
     - _Float1: 0.64
     - _Float3: 0.3
     - _HighlightOffset: -59.6
     - _HighlightSharpness: 95.1
-    - _LightmapOffset: 4.8
-    - _LightmapSharpness: 0
+    - _LightmapOffset: -54.08
+    - _LightmapSharpness: 80
     - _NormalScale: 0.99
     - _RimOffset: 0.95
     - _RimPower: 0
