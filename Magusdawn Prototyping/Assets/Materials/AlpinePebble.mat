@@ -62,12 +62,12 @@ Material:
     - _Float3: 0.3
     - _HighlightOffset: -56.9
     - _HighlightSharpness: 60.47
-    - _LightmapOffset: 30
-    - _LightmapSharpness: 80
+    - _LightmapOffset: -104.7
+    - _LightmapSharpness: 206.6
     - _NormalScale: 3
     - _RimOffset: 0.88
     - _RimPower: 0
-    - _ShadowOffset: -64.54
+    - _ShadowOffset: -29.1
     - _ShadowSharpness: 113.1
     - _ShadowStrength: 0
     - __dirty: 0
@@ -76,7 +76,7 @@ Material:
     - _Color0: {r: 1, g: 1, b: 1, a: 0}
     - _Color1: {r: 0, g: 1, b: 0.8758622, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 0}
-    - _HighlightColor: {r: 1, g: 1, b: 0.2783019, a: 1}
+    - _HighlightColor: {r: 0.20641601, g: 0.266, b: 0.24363014, a: 1}
     - _MainColor: {r: 0.9245283, g: 0.9158805, b: 0.8503916, a: 0}
     - _RimColor: {r: 0.4708319, g: 0.4708319, b: 0.4708319, a: 1}
-    - _ShadowColor: {r: 0.8867924, g: 0.8867924, b: 0.8867924, a: 0}
+    - _ShadowColor: {r: 0.686306, g: 0.62379855, b: 0.8113208, a: 1}

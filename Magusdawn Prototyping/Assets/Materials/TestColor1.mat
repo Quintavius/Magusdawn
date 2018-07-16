@@ -79,7 +79,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - _AlbedoLevel: 2.4
+    - _AlbedoLevel: 1.33
     - _BumpScale: 1
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
@@ -113,4 +113,4 @@ Material:
     - _HighlightColor: {r: 0.13207549, g: 0.0546652, b: 0.006852974, a: 1}
     - _MainColor: {r: 0.33962262, g: 0.31512153, b: 0.23549305, a: 0}
     - _RimColor: {r: 0.4339623, g: 0.34171766, b: 0.20265219, a: 0}
-    - _ShadowColor: {r: 0.07636168, g: 0.086114995, b: 0.11320752, a: 0}
+    - _ShadowColor: {r: 0.7735849, g: 0.6318123, b: 0.6239765, a: 0}
