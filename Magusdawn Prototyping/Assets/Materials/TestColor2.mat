@@ -79,7 +79,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - _AlbedoLevel: 1.81
+    - _AlbedoLevel: 1.86
     - _BumpScale: 1
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
@@ -89,8 +89,8 @@ Material:
     - _GlossyReflections: 1
     - _HighlightOffset: -2.8
     - _HighlightSharpness: 1.5
-    - _LightmapOffset: 24.4
-    - _LightmapSharpness: 0
+    - _LightmapOffset: 42.32
+    - _LightmapSharpness: 84.2
     - _Metallic: 0
     - _Mode: 0
     - _NormalScale: 1.44
@@ -98,8 +98,9 @@ Material:
     - _Parallax: 0.02
     - _RimOffset: 0.7
     - _RimPower: 0
-    - _ShadowOffset: -77
+    - _ShadowOffset: -47.7
     - _ShadowSharpness: 109.1
+    - _ShadowStrength: 0
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
@@ -112,4 +113,4 @@ Material:
     - _HighlightColor: {r: 0.6603774, g: 0.109024554, b: 0.109024554, a: 1}
     - _MainColor: {r: 1, g: 0.09019608, b: 0.31764707, a: 0}
     - _RimColor: {r: 0.7924528, g: 0.6752379, b: 0.35510856, a: 0}
-    - _ShadowColor: {r: 0.2269491, g: 0.3374984, b: 0.6415094, a: 0}
+    - _ShadowColor: {r: 1, g: 1, b: 1, a: 0}

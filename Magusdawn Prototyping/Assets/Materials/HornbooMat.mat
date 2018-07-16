@@ -73,6 +73,7 @@ Material:
     - _RimPower: 0
     - _ShadowOffset: -53.1
     - _ShadowSharpness: 100
+    - _ShadowStrength: 0
     - _TessMax: 25
     - _TessMin: 10
     - _TessPhongStrength: 0.5
@@ -88,5 +89,5 @@ Material:
     - _HighlightColor: {r: 0.15094334, g: 0.10864126, b: 0.033463866, a: 1}
     - _MainColor: {r: 1, g: 1, b: 1, a: 0}
     - _RimColor: {r: 0.6462126, g: 2.4886825, b: 0.64564884, a: 1}
-    - _ShadowColor: {r: 1, g: 1, b: 1, a: 0}
+    - _ShadowColor: {r: 0, g: 0, b: 0, a: 0}
     - _TransmissionColor: {r: 1, g: 1, b: 1, a: 0}
