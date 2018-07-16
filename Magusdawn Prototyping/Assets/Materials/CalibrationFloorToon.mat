@@ -84,7 +84,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - _AlbedoLevel: 1.7
+    - _AlbedoLevel: 2.44
     - _AlphaTestRef: 0.5
     - _BumpScale: 1
     - _Cutoff: 0.5
@@ -96,8 +96,8 @@ Material:
     - _GlossyReflections: 1
     - _HighlightOffset: -6.6
     - _HighlightSharpness: 7.8
-    - _LightmapOffset: 0
-    - _LightmapSharpness: 1
+    - _LightmapOffset: -17.45
+    - _LightmapSharpness: 32.97
     - _Lightmapping: 1
     - _Mode: 0
     - _NormalScale: 1
@@ -105,7 +105,7 @@ Material:
     - _Parallax: 0.02
     - _RimOffset: 0.24
     - _RimPower: 10
-    - _ShadowOffset: -61.4
+    - _ShadowOffset: -70.1
     - _ShadowSharpness: 100
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
@@ -118,9 +118,9 @@ Material:
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 0.99999994}
     - _EmissionColorUI: {r: 0, g: 0, b: 0, a: 1}
     - _EmissionColorWithMapUI: {r: 1, g: 1, b: 1, a: 1}
-    - _HighlightColor: {r: 0.7830189, g: 0.5133945, b: 0.5133945, a: 0}
+    - _HighlightColor: {r: 1, g: 0.2783019, b: 0.2783019, a: 0}
     - _MainColor: {r: 1, g: 1, b: 1, a: 0}
     - _RimColor: {r: 0, g: 1, b: 0.8758622, a: 0}
-    - _ShadowColor: {r: 0.7104397, g: 0.7788645, b: 0.9716981, a: 0}
+    - _ShadowColor: {r: 0.509434, g: 0.41091138, b: 0.47739887, a: 0}
     - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
     - _SpecularColor: {r: 0.11764706, g: 0.11764706, b: 0.11764706, a: 1}
