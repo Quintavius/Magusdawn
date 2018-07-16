@@ -19,7 +19,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _Diffuse:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 109c06235fb5dcc48abb1628b83f6c1b, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Emission:
@@ -56,19 +56,19 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _ASEOutlineWidth: 1
-    - _AlbedoLevel: 1.46
+    - _AlbedoLevel: 1.73
     - _Cutoff: 0.5
     - _Float1: 0.64
     - _Float3: 0.3
-    - _HighlightOffset: -121.6
-    - _HighlightSharpness: 151.56
-    - _LightmapOffset: -185
-    - _LightmapSharpness: 368.7
-    - _NormalScale: 0.7
-    - _RimOffset: 0.7
+    - _HighlightOffset: -551.5
+    - _HighlightSharpness: 314.7
+    - _LightmapOffset: -152.8
+    - _LightmapSharpness: 359.9
+    - _NormalScale: 1.48
+    - _RimOffset: 0.74
     - _RimPower: 0
-    - _ShadowOffset: -61.2
-    - _ShadowSharpness: 100
+    - _ShadowOffset: -318.4
+    - _ShadowSharpness: 854.7
     - __dirty: 0
     m_Colors:
     - _ASEOutlineColor: {r: 0, g: 0, b: 0, a: 0}
@@ -78,4 +78,4 @@ Material:
     - _HighlightColor: {r: 0.122641504, g: 0.09429512, b: 0.09429512, a: 1}
     - _MainColor: {r: 1, g: 1, b: 1, a: 0}
     - _RimColor: {r: 2.670157, g: 2.670157, b: 2.670157, a: 1}
-    - _ShadowColor: {r: 0.7075472, g: 0.7075472, b: 0.7075472, a: 0}
+    - _ShadowColor: {r: 1, g: 1, b: 1, a: 0}

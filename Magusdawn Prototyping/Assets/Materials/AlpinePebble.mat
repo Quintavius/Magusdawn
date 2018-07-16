@@ -62,7 +62,7 @@ Material:
     - _Float3: 0.3
     - _HighlightOffset: -56.9
     - _HighlightSharpness: 60.47
-    - _LightmapOffset: -54.08
+    - _LightmapOffset: 30
     - _LightmapSharpness: 80
     - _NormalScale: 3
     - _RimOffset: 0.88
