@@ -92,7 +92,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _ASEOutlineWidth: 0.02
-    - _AlbedoLevel: 3.15
+    - _AlbedoLevel: 3.39
     - _BaseCellOffset: 0.207
     - _BaseCellSharpness: 0.396
     - _BumpScale: 1
@@ -104,22 +104,22 @@ Material:
     - _GlossyReflections: 1
     - _HighlightCellOffset: -0.96
     - _HighlightCellSharpness: 0.001
-    - _HighlightOffset: -2.78
+    - _HighlightOffset: -2.8
     - _HighlightSharpness: 3.6
     - _IndirectDiffuseContribution: 0.679
     - _IndirectSpecularContribution: 1
-    - _LightmapOffset: -414.3
+    - _LightmapOffset: -481.44
     - _LightmapSharpness: 802.6
     - _Metallic: 0
     - _Mode: 0
-    - _NormalScale: 1
+    - _NormalScale: 0.96
     - _OcclusionStrength: 1
     - _OutlineWidth: 0.0125
     - _Parallax: 0.02
     - _RimOffset: 0.71
     - _RimPower: 10
     - _ShadowContribution: 0.277
-    - _ShadowOffset: 1.01
+    - _ShadowOffset: -0.5
     - _ShadowSharpness: 1.41
     - _ShadowStrength: 0
     - _SmoothnessTextureChannel: 0
@@ -138,9 +138,9 @@ Material:
     - _BaseTint: {r: 1, g: 1, b: 1, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _HighlightColor: {r: 0.6415094, g: 0.4775204, b: 0.32378072, a: 0}
+    - _HighlightColor: {r: 0.9245283, g: 0.659962, b: 0.41429335, a: 0}
     - _HighlightTint: {r: 0.46226418, g: 0.3005346, b: 0.128649, a: 1}
     - _MainColor: {r: 1, g: 1, b: 1, a: 0}
     - _OutlineTint: {r: 0.5, g: 0.1956522, b: 0, a: 1}
     - _RimColor: {r: 0.3962264, g: 0.1033656, b: 0, a: 0}
-    - _ShadowColor: {r: 0.9338381, g: 0.8066038, b: 1, a: 0}
+    - _ShadowColor: {r: 0.69164246, g: 0.5854396, b: 0.8679245, a: 0}

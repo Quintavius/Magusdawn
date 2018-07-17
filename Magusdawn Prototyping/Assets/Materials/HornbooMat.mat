@@ -35,7 +35,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ShadowMap:
-        m_Texture: {fileID: 2800000, guid: c23de8648a1987649b61b8e41b1c26a1, type: 3}
+        m_Texture: {fileID: 2800000, guid: 8e24bd92bfdbf2b4483c004dd1f40c4f, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _TextureSample0:
@@ -60,18 +60,18 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _ASEOutlineWidth: 1
-    - _AlbedoLevel: 3.15
+    - _AlbedoLevel: 2.11
     - _Cutoff: 0.5
     - _Float1: 0.64
     - _Float3: 0.3
-    - _HighlightOffset: -10.6
-    - _HighlightSharpness: 18.7
-    - _LightmapOffset: -113.7
-    - _LightmapSharpness: 223.3
+    - _HighlightOffset: -1.5
+    - _HighlightSharpness: 2
+    - _LightmapOffset: -358.8
+    - _LightmapSharpness: 602.4
     - _NormalScale: 0.99
-    - _RimOffset: 0.95
+    - _RimOffset: 0.76
     - _RimPower: 0
-    - _ShadowOffset: -47.6
+    - _ShadowOffset: -35.9
     - _ShadowSharpness: 89.5
     - _ShadowStrength: 0
     - _TessMax: 25
@@ -86,8 +86,8 @@ Material:
     - _Color0: {r: 1, g: 1, b: 1, a: 0}
     - _Color1: {r: 0, g: 1, b: 0.8758622, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 0}
-    - _HighlightColor: {r: 0.31083688, g: 0.509434, b: 0.016820943, a: 1}
+    - _HighlightColor: {r: 0.9433962, g: 0.9209224, b: 0.7965468, a: 1}
     - _MainColor: {r: 1, g: 1, b: 1, a: 0}
-    - _RimColor: {r: 0.6462126, g: 2.4886825, b: 0.64564884, a: 1}
+    - _RimColor: {r: 0.44629803, g: 1.9433994, b: 0.21084054, a: 1}
     - _ShadowColor: {r: 1, g: 1, b: 1, a: 0}
     - _TransmissionColor: {r: 1, g: 1, b: 1, a: 0}

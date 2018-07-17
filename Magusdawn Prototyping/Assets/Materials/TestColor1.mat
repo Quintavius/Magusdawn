@@ -93,7 +93,7 @@ Material:
     - _LightmapSharpness: 209
     - _Metallic: 0
     - _Mode: 0
-    - _NormalScale: 1
+    - _NormalScale: 1.5
     - _OcclusionStrength: 1
     - _Parallax: 0.02
     - _RimOffset: 0.58
